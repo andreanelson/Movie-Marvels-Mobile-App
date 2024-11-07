@@ -11,7 +11,7 @@ import { useNavigation } from '@react-navigation/native'; // Import useNavigatio
 const { width, height } = Dimensions.get('window');
 
 // API Key for Google Places API
-const API_KEY = 'AIzaSyDIdobN4M2TmVt3nmUrvIv0si1IKu3rZnE'; // Use your own API Key here
+const API_KEY = ' ' // Use your own API Key here
 
 const CinemasScreen = () => {
   // State variables
